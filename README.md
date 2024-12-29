@@ -1,6 +1,6 @@
 👋 Hi, I’m @ShyamreddyNalla
 👀 I’m passionate about building innovative software solutions and creating intuitive Android applications that make a difference.
-🌱 I’m currently mastering Java, Android Studio, and SQL, and continuously honing my problem-solving skills through coding challenges and real-world projects.
+🌱 I’m currently mastering Java, Kotlin, Android Studio, and SQL, and continuously honing my problem-solving skills through coding challenges and real-world projects.
 💞️ I’m looking to collaborate on projects that combine creativity and technology, such as dynamic Android apps, efficient backend systems, or impactful Java-based solutions.
 📫 How to reach me: shyamreddy739@gmail.com,
 😄 Pronouns: He/Him
