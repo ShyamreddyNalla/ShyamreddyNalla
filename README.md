@@ -4,7 +4,7 @@
 
 🚀 **Proficient in Android Development, Kotlin, Java, and SQL.** I build intuitive and innovative Android applications that deliver real-world solutions.
 
-🔧 **Tools & Technologies:** Kotlin, Java, Android Studio, SQL, Firebase, Retrofit, ViewBinding, and more.
+🔧 **Tools & Technologies:** Kotlin, Java, Android Studio, SQL, Firebase, Retrofit, MVVM, and more.
 
 🌱 **Currently focused on enhancing my skills and building projects that merge creativity with cutting-edge technology.**
 
