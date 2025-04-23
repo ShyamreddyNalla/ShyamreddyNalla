@@ -2,7 +2,7 @@
 
 👨‍💻 **Android Developer | Problem Solver | Creator of Impactful Apps**
 
-🚀 **Proficient in Android Development, Kotlin, Java, and SQL.** I build intuitive and innovative Android applications that deliver real-world solutions.
+🚀 **Proficient in Android Development, Kotlin, Java, and MVVM.** I build intuitive and innovative Android applications that deliver real-world solutions.
 
 🔧 **Tools & Technologies:** Kotlin, Java, Android Studio, SQL, Firebase, Retrofit, MVVM, and more.
 
